@@ -1,10 +1,10 @@
-package com.booleandev.springsecurity;
+package com.booleandev.security;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringSecurityApplicationTests {
+class SecurityApplicationTests {
 
     @Test
     void contextLoads() {
